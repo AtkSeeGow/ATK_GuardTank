@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:leonardo",
+    "sketch": "Source\\GuardTank.Control\\GuardTank.Control.ino",
+    "programmer": "arduino:avrisp",
+    "port": "COM8"
+}
